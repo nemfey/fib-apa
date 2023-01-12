@@ -1,1 +1,8 @@
---
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+IPython.core.interactiveshell
+IPython.display
+warnings
